@@ -1,4 +1,6 @@
 # 📊 Excel Sales Data Analysis | Advanced Excel, Dashboards, Business Insights
+<img width="1135" height="693" alt="Screenshot 2026-08-01 195015" src="https://github.com/user-attachments/assets/acadc866-5920-4ee9-9319-2a188cf4526c" />
+
 
 ## 🔍 Project Summary
 This project focuses on **analyzing sales data using Microsoft Excel** to generate
